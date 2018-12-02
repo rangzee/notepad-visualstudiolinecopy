@@ -39,3 +39,6 @@ packages/**
 Unicode Realeas/*
 *.sdf
 *.opensdf
+
+/x64
+/.vs
